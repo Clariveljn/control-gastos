@@ -5,6 +5,7 @@
     --gris: #94a3b8;
     --gris-oscuro: #64748b;
     --negro: #000;
+    --verde: #07a202;
 }
 
 body {
@@ -215,7 +216,7 @@ header h1 {
 }
 .reset-app {
     border: none;
-    background-color: #db2777;
+    background-color: #e33480;
     padding: 1rem;
     width: 100%;
     text-align: center;
